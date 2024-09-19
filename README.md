@@ -1,4 +1,6 @@
-Hi, my name is Lucas.
+Hi, my name is Lucas. 
+
+This is my first GitHub repository 
 
 I am currently studing Computer Engineering at UNM
 
